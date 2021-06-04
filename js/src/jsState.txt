@@ -1,0 +1,74 @@
+[
+{
+"nsoporte": 223,
+"des": "Se reviso error al iniciar DSPMC, y se inicio reinstalacion de software. Se cancelo porque el cliente tuvo que irse."
+},
+{
+"nsoporte": 223,
+"des": "Se vera de finalizar al dia siguiente, Pavan intentara finalizarla y avisara si se pudo."
+},
+{
+"nsoporte": 223,
+"des": "No se pudo hacer funcionar el software. Se teoriza que el problema esta en el sistema operativo. Se le recomienda al cliente cambiar de pc o formatear"
+},
+{
+"nsoporte": 233,
+"des": "Mediante un mail, se envio un intructivo basico, para realizar backup de las bases de datos"
+},
+{
+"nsoporte": 234,
+"des": "Se procedio a realizar el copiado de los archivos a una de las computadoras."
+},
+{
+"nsoporte": 234,
+"des": " Actualizar SQL2012 a 2014. PC-1."
+},
+{
+"nsoporte": 234,
+"des": " Actualizar SQL2012 a 2014. PC-2."
+},
+{
+"nsoporte": 235,
+"des": "Comunicación con el cliente, consulta y analisis del problema. Se cree en la posibilidad de un problema de hardware."
+},
+{
+"nsoporte": 235,
+"des": "Se le comunico a carlos para que analice la posibilidad de un problema de hardware"
+},
+{
+"nsoporte": 213,
+"des": "Mariano tiene que revisar la base de datos, porque el cliente no es pudiendo borrar puntos, equipo, etc."
+},
+{
+"nsoporte": 218,
+"des": "Conectarse con Arturo para realizar el soporte."
+},
+{
+"nsoporte": 64,
+"des": "Conectarse con cliente para realizar la Instalacion de Data Management en pc."
+},
+{
+"nsoporte": 214,
+"des": "Problema de equipo expert que no mide bien, al parecer problema con cables."
+},
+{
+"nsoporte": 214,
+"des": "Quedo en la gente de mantenimiento."
+},
+{
+"nsoporte": 219,
+"des": "-> Coordinar con Sean para realizar el soporte."
+},
+{
+"nsoporte": 193,
+"des": "-> Soporte no realizado aun"
+},
+{
+"nsoporte": 165,
+"des": "-> Soporte no realizado aun"
+},
+{
+"nsoporte": 129,
+"des": "-> Soporte no realizado aun"
+}
+]

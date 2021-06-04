@@ -1,0 +1,882 @@
+[
+{
+"id": 8,
+"obs": "Actualizacion software y firmware a V8."
+},
+{
+"id": 9,
+"obs": "Actualizacion software y firmware a V8."
+},
+{
+"id": 10,
+"obs": "Backup de base de datos."
+},
+{
+"id": 11,
+"obs": "Actualizacion software y firmware a V8."
+},
+{
+"id": 240,
+"obs": "Aplicada licencia a llave para V8."
+},
+{
+"id": 241,
+"obs": "Aplicada licencia a llave para V8."
+},
+{
+"id": 242,
+"obs": "Aplicada licencia a llave para V8."
+},
+{
+"id": 243,
+"obs": "Aplicada licencia a llave para V8."
+},
+{
+"id": 244,
+"obs": "Aplicada licencia a llave para V8."
+},
+{
+"id": 245,
+"obs": "Aplicada licencia a llave para V8."
+},
+{
+"id": 14,
+"obs": "Instalaci�n Firmware de balanceo en un Pocket."
+},
+{
+"id": 15,
+"obs": "Reinstalacion de software V7."
+},
+{
+"id": 16,
+"obs": "Instalacion de dos Firmwares (Modulos)."
+},
+{
+"id": 20,
+"obs": "Instalacion de SQL Management Studio, Backup de base de datos."
+},
+{
+"id": 18,
+"obs": "Instalaci�n software versi�n 8."
+},
+{
+"id": 19,
+"obs": "Activaci�n de m�dulos analizador y medidor (V8.405)"
+},
+{
+"id": 25,
+"obs": "Instalacion de FirmWare V8."
+},
+{
+"id": 27,
+"obs": "Habilitacion modulo de colector de datos en equipo."
+},
+{
+"id": 26,
+"obs": "Actualizacion licencia de llave a V8. (LLAVE YA ESTABA ACTUALIZADA)"
+},
+{
+"id": 28,
+"obs": "Instalacion de software de visualizacion de equipos. No tenia un Expert para probar, cuando termine de hacer la prueba me avisa."
+},
+{
+"id": 32,
+"obs": "Quitar modulo de test and go. Parche bateria. (Dar instructivo y ver si funciona). Se realizo un instructivo para el proceso de calibracion de la bateria."
+},
+{
+"id": 30,
+"obs": "Instalacion de software Machine Saver."
+},
+{
+"id": 33,
+"obs": "No inicia DSPMC."
+},
+{
+"id": 31,
+"obs": "Instalacion de softwares (Gerardo Morales). Hermanar equipo Remote con la computadora 1. Hecho. Hacer lo mismo con otro equipo. Hecho."
+},
+{
+"id": 34,
+"obs": "Instalacion de Sotware DSPMV V?"
+},
+{
+"id": 35,
+"obs": "Vibpro-Borybor"
+},
+{
+"id": 40,
+"obs": "DSPMC no funciona, se ven cortadas las plantas."
+},
+{
+"id": 36,
+"obs": "Backup de base de datos. (Se agrego la base de datos a su otra computadora)."
+},
+{
+"id": 41,
+"obs": "En software DSPMC no tiene bases de datos, ni instancias SQL.(Se paso por tiempo)."
+},
+{
+"id": 44,
+"obs": "Cargar el firmware de colector."
+},
+{
+"id": 45,
+"obs": "Reinstalacion de SoftWare DSPMC V8."
+},
+{
+"id": 46,
+"obs": "Bajar la version de un VibPro de version 8 a  a V7."
+},
+{
+"id": 47,
+"obs": "Instalaci�n del software."
+},
+{
+"id": 49,
+"obs": "Reinstalacion de software para que funcione aplicaci�n Backup. Debe formatear su computadora por mal funcionamiento - Se cierra el soporte."
+},
+{
+"id": 51,
+"obs": "Instalar ultima version del firmware a equipo Expert (Asegurarse que queden todos los modulos)"
+},
+{
+"id": 52,
+"obs": "Habilitar medidor y analizador."
+},
+{
+"id": 37,
+"obs": "Instalacion inicial V.7"
+},
+{
+"id": 53,
+"obs": "Instalacion de sotware DSPMC V8."
+},
+{
+"id": 54,
+"obs": "Instalacion de sotware DSPMC V8."
+},
+{
+"id": 57,
+"obs": "Actualizacion del Firmware de un pocket a la ultima version 7."
+},
+{
+"id": 56,
+"obs": "Backup de bases de datos por reinstalacion de sistema operativo de pc."
+},
+{
+"id": 55,
+"obs": "Instalacion de sotware DSPMC V8. Ya instalado, necesitaba capacitacion para uso del programa."
+},
+{
+"id": 59,
+"obs": "Actualizar FirmWare a la ultima Version 7. Resetear Calibracion y Habilitar solo balanceo y colector. (Pasar para otro dia - equipo entregado - se hace con cliente)"
+},
+{
+"id": 61,
+"obs": "Actualizacion Llave a version 8."
+},
+{
+"id": 60,
+"obs": "El Software DSPMC no le permite crear la base de datos."
+},
+{
+"id": 50,
+"obs": "Instalacion de software DSPMC V8 en 2 pcs. (Se paso para otro dia)"
+},
+{
+"id": 67,
+"obs": "Instalacion de la ultima version 7 a equipo Pocket."
+},
+{
+"id": 63,
+"obs": "Instalacion de 4 equipos DSPMC V8, FirmWare Expert V8 y llave V8 toda la ultima version."
+},
+{
+"id": 251,
+"obs": "Instalacion de 4 equipos DSPMC V8, FirmWare Expert V8 y llave V8 toda la ultima version."
+},
+{
+"id": 252,
+"obs": "Instalacion de 4 equipos DSPMC V8, FirmWare Expert V8 y llave V8 toda la ultima version."
+},
+{
+"id": 253,
+"obs": "Instalacion de 4 equipos DSPMC V8, FirmWare Expert V8 y llave V8 toda la ultima version."
+},
+{
+"id": 254,
+"obs": "Instalacion de 4 equipos DSPMC V8, FirmWare Expert V8 y llave V8 toda la ultima version."
+},
+{
+"id": 62,
+"obs": "Instalacion de DSPMC V8 ultima. Llave 570617785"
+},
+{
+"id": 70,
+"obs": "Instalacion de DSPMC V8 ultima."
+},
+{
+"id": 72,
+"obs": "Actualizacion de FirmWare a ultima version 7. No se pudo conectar con el equipo Expert (Windows 10)."
+},
+{
+"id": 71,
+"obs": "Actualizacion de licencia a V8."
+},
+{
+"id": 73,
+"obs": "Instalacion de Software DSPMC ultima V8 en dos pcs."
+},
+{
+"id": 39,
+"obs": "Instalacion del Software DSPMC a ultima version V8 en pc. OK. FirmWare ya actualizado ultima version 8. OK. Servidor. OK. Se cambio la fecha de soporte. Puerto Madryn - Perez Jesus Lisandro"
+},
+{
+"id": 246,
+"obs": "Instalacion del Software DSPMC a ultima version V8 en pc OK. Actualizar FirmWare a ultima version 8. OK. Se cambio la fecha de soporte. Puerto Madryn - Perez Jesus Lisandro"
+},
+{
+"id": 247,
+"obs": "Actualizacion de licencia a V8."
+},
+{
+"id": 248,
+"obs": "Actualizacion de licencia a V8."
+},
+{
+"id": 249,
+"obs": "Actualizacion de licencia a V8."
+},
+{
+"id": 75,
+"obs": "Instalar FirmWare a ultima version 8. (Actualmente tiene v8.370) - OK. DSPMC - OK."
+},
+{
+"id": 76,
+"obs": "No conecta expert al DSPMC."
+},
+{
+"id": 77,
+"obs": "Tiene Ver 8.133, pasarlo a Ver 8.151."
+},
+{
+"id": 78,
+"obs": "Instalacion de ultima version 8 de DSPMC."
+},
+{
+"id": 79,
+"obs": "Habilitacion de modulos"
+},
+{
+"id": 81,
+"obs": "Agregado de base de datos al software DSPMC."
+},
+{
+"id": 84,
+"obs": "Instalacion de FirmWare por problemas de bateria. Preguntar a Oliverio que version de FirmWare tiene la programacion implementada para el pack de bateria."
+},
+{
+"id": 83,
+"obs": "Instalacion de FirmWare V8. OK. Instalacion de DSPMC V8. OK"
+},
+{
+"id": 85,
+"obs": "Reinstalacion de FirmWare en equipo por problemas."
+},
+{
+"id": 250,
+"obs": "Reinstalacion de FirmWare en equipo por problemas."
+},
+{
+"id": 86,
+"obs": "LLAVE A V8. OK. DSPMC A V8. OK. EXPERT A V8. OK"
+},
+{
+"id": 87,
+"obs": "Reinstalacion del mismo FirmWare a equipo por problema de logo bateria."
+},
+{
+"id": 88,
+"obs": "LLAVE A V8. OK. DSPMC A V8. OK. EXPERT A V8. OK"
+},
+{
+"id": 89,
+"obs": "Problema con la llave al instalar el software DSPMC."
+},
+{
+"id": 90,
+"obs": "Actualizacion FirmWare equipo."
+},
+{
+"id": 97,
+"obs": "Habilitacion de modulo de balanceo."
+},
+{
+"id": 93,
+"obs": "EX300-0505. FirmWare OK. SoftWare OK. Llave OK. EX200-0156 FirmWare OK. SoftWare OK. Llave OK. EX200-0152 FirmWare OK. SoftWare OK. Llave OK."
+},
+{
+"id": 255,
+"obs": "EX300-0505. FirmWare OK. SoftWare OK. Llave OK. EX200-0156 FirmWare OK. SoftWare OK. Llave OK. EX200-0152 FirmWare OK. SoftWare OK. Llave OK."
+},
+{
+"id": 256,
+"obs": "EX300-0505. FirmWare OK. SoftWare OK. Llave OK. EX200-0156 FirmWare OK. SoftWare OK. Llave OK. EX200-0152 FirmWare OK. SoftWare OK. Llave OK."
+},
+{
+"id": 98,
+"obs": "Instalacion de Machinery Control ultima version 8."
+},
+{
+"id": 100,
+"obs": "Instalar FirmWare a ultima version 7.  OK. PC DSP MC. OK. PC DSP MC. OK."
+},
+{
+"id": 101,
+"obs": "Instalar FirmWare a ultima version 7.  OK. PC DSP MC de 7.0.385 a 7.4.549. OK. PC DSP MC. OK"
+},
+{
+"id": 102,
+"obs": "Instalacion del software DSP MC V7."
+},
+{
+"id": 103,
+"obs": "Actualizacion de llave de version reporte a full"
+},
+{
+"id": 105,
+"obs": "Actualizacion de llave de version 7 full a version 8 reporte."
+},
+{
+"id": 106,
+"obs": "Habilitacion de modulo testigo."
+},
+{
+"id": 104,
+"obs": "Instalacion de software DSP MC."
+},
+{
+"id": 108,
+"obs": "El equipo Expert, no se conecta con la PC. La PC presenta anomalias, tiene que verlo con personal de IT de la empresa, conecto Expert en otra Pc y el equipo se conecta bien."
+},
+{
+"id": 109,
+"obs": "Instalacion de Machinery Control ultima version 8. OK. Actualizacion FirmWare equipo a ultima version 8. OK. Llave a version 8. OK"
+},
+{
+"id": 110,
+"obs": "Actualizacion de FirmWares a tres equipos, a ultima version 7.EX300-0417. EX300-0314. EX300-0410. Problemas con la conexi�n a internet."
+},
+{
+"id": 257,
+"obs": "Actualizacion de FirmWares a tres equipos, a ultima version 7.EX300-0417. EX300-0314. EX300-0410. Problemas con la conexi�n a internet."
+},
+{
+"id": 258,
+"obs": "Actualizacion de FirmWares a tres equipos, a ultima version 7.EX300-0417. EX300-0314. EX300-0410. Problemas con la conexi�n a internet."
+},
+{
+"id": 111,
+"obs": "Actualizar FirmWare a la ultima version 8."
+},
+{
+"id": 91,
+"obs": "Asistencia Tecnica."
+},
+{
+"id": 107,
+"obs": "Eliminacion de modulo testigo."
+},
+{
+"id": 113,
+"obs": "Instalar ultima version 8 del FirmWare. EX500-0597. EX500-0618. EX500-0625. EX500-0621."
+},
+{
+"id": 259,
+"obs": "Instalar ultima version 8 del FirmWare. EX500-0597. EX500-0618. EX500-0625. EX500-0621."
+},
+{
+"id": 260,
+"obs": "Instalar ultima version 8 del FirmWare. EX500-0597. EX500-0618. EX500-0625. EX500-0621."
+},
+{
+"id": 261,
+"obs": "Instalar ultima version 8 del FirmWare. EX500-0597. EX500-0618. EX500-0625. EX500-0621."
+},
+{
+"id": 112,
+"obs": "Instalacion software ultima version 7 en nueva PC. Migrar bases a nueva PC."
+},
+{
+"id": 94,
+"obs": "Carga de Firmware Colector de Datos."
+},
+{
+"id": 117,
+"obs": "Instalacion de software Data Management."
+},
+{
+"id": 116,
+"obs": "Acutalizacion de software DSP MC.OK. Actualizacion FirmWare Expert. OK. Actualizacion de licencia de llave. OK"
+},
+{
+"id": 95,
+"obs": "Actualizar FirmWare de equipo. OK. Actualizar DSP Machiney Control a V8.1. OK. Hermanar equipo con SoftWare."
+},
+{
+"id": 119,
+"obs": "Actualizacion de FirmWare a V8.431. EX200-0156. EX200-0152. EX300-0505."
+},
+{
+"id": 262,
+"obs": "Actualizacion de FirmWare a V8.431. EX200-0156. EX200-0152. EX300-0505."
+},
+{
+"id": 263,
+"obs": "Actualizacion de FirmWare a V8.431. EX200-0156. EX200-0152. EX300-0505."
+},
+{
+"id": 120,
+"obs": "Actualizacion de machinery Control a V8 2 PCs. OK-1. Actualizacion llave a version 8. OK. Actualizacion de FirmWare a ultima V8. OK"
+},
+{
+"id": 121,
+"obs": "Actualizar software a 8.1 y llave HASP a V8."
+},
+{
+"id": 122,
+"obs": "Actualizacion FirmWare equipo. Equipo 1. OK. Equipo 2. OK. Equipo 3. OK"
+},
+{
+"id": 264,
+"obs": "Actualizacion FirmWare equipo. Equipo 1. OK. Equipo 2. OK. Equipo 3. OK"
+},
+{
+"id": 265,
+"obs": "Actualizacion FirmWare equipo. Equipo 1. OK. Equipo 2. OK. Equipo 3. OK"
+},
+{
+"id": 124,
+"obs": "Acualizacion de FirmWare, software a ultima version 8. Habilitacion de modulo colector."
+},
+{
+"id": 125,
+"obs": "Habilitar modulo medciones on line. No tiene FirmWare actualizado."
+},
+{
+"id": 126,
+"obs": "Actualizacion de FirmWare a V7 a pc 1. OK. Actualizacion de FirmWare a V7 a pc 2. OK. Actualizacion de FirmWare a V7 a pc 3. Falta esta PC. EX200-0152. OK. EX300-0505. OK. EX200-0156. OK."
+},
+{
+"id": 266,
+"obs": "Actualizacion de FirmWare a V7 a pc 1. OK. Actualizacion de FirmWare a V7 a pc 2. OK. Actualizacion de FirmWare a V7 a pc 3. Falta esta PC. EX200-0152. OK. EX300-0505. OK. EX200-0156. OK."
+},
+{
+"id": 267,
+"obs": "Actualizacion de FirmWare a V7 a pc 1. OK. Actualizacion de FirmWare a V7 a pc 2. OK. Actualizacion de FirmWare a V7 a pc 3. Falta esta PC. EX200-0152. OK. EX300-0505. OK. EX200-0156. OK."
+},
+{
+"id": 92,
+"obs": "Actualizacion de FirmWare de equipo a ultima version 8. Actualizacion o instalacion de software a ultima version 8. Llave a version 8."
+},
+{
+"id": 130,
+"obs": "Actualizacion de FirmWare a version v8.431."
+},
+{
+"id": 128,
+"obs": "Actualizacion de FirmWare equipo 1 a ultima version 8. OK. Actualizacion de FirmWare equipo 2 a ultima version 8. OK. Actualizacion de Machinery Control a ultima version 8. OK"
+},
+{
+"id": 268,
+"obs": "Actualizacion de FirmWare equipo 1 a ultima version 8. OK. Actualizacion de FirmWare equipo 2 a ultima version 8. OK. Actualizacion de Machinery Control a ultima version 8. OK"
+},
+{
+"id": 138,
+"obs": "Instalar ultimo firmware V8 a Pocket Vibro."
+},
+{
+"id": 136,
+"obs": "Asistencia Tecnica."
+},
+{
+"id": 137,
+"obs": "Asistencia Tecnica."
+},
+{
+"id": 115,
+"obs": "Actualizar TRM_1. OK. Actualizar TRM_2. OK."
+},
+{
+"id": 269,
+"obs": "Actualizar TRM_1. OK. Actualizar TRM_2. OK."
+},
+{
+"id": 139,
+"obs": "Actualizacion de FirmWare a V8 por problemas con la carga de la bateria. Actualizacion de software a version 8. Actualizacion de llave HASP a version 8."
+},
+{
+"id": 38,
+"obs": "Soporte para configurar RM400-0421 en una pc nueva."
+},
+{
+"id": 141,
+"obs": "Instalacion de sofware machinery control."
+},
+{
+"id": 143,
+"obs": "Actualizacion de FirmWare a 8.427"
+},
+{
+"id": 145,
+"obs": "Instalacion de software DSP MC V6.0.345 SQL2012."
+},
+{
+"id": 146,
+"obs": "Instalacion de FirmWare a pocket Vibpro V8.156"
+},
+{
+"id": 150,
+"obs": "Actualizaci�n firmware de Pocket a version 8.156 por problema de bater�a"
+},
+{
+"id": 151,
+"obs": "Reinstalacon del software DSPMC version 7."
+},
+{
+"id": 147,
+"obs": "Instalar FirmWare version 8.427 en equipos."
+},
+{
+"id": 270,
+"obs": "Instalar FirmWare version 8.427 en equipos."
+},
+{
+"id": 154,
+"obs": "Instalacion de Machinery Control V7."
+},
+{
+"id": 155,
+"obs": "Actualizar Firmware de Pocket Vibpro a ultima V8 por error en equipo."
+},
+{
+"id": 157,
+"obs": "Actualizar Firmware de equipo a version 8.370. Actualizar DSP MC a version 8. Actualizar llave HASP a V8."
+},
+{
+"id": 156,
+"obs": "Instalar FirmWare version 8.370 en equipos. EX400-0569. OK. EX400-0558. OK"
+},
+{
+"id": 271,
+"obs": "Instalar FirmWare version 8.370 en equipos. EX400-0569. OK. EX400-0558. OK"
+},
+{
+"id": 158,
+"obs": "Habilitar modulos expert para que quede full. OK. Llave Report a full"
+},
+{
+"id": 118,
+"obs": "No se comunica con el software DSP MC. Se cancelo por mucho tiempo de espera."
+},
+{
+"id": 160,
+"obs": "Actualizaci�n de firmware de Pocket a 8.156."
+},
+{
+"id": 162,
+"obs": "Bajar Firmware de equipo a version 8.370."
+},
+{
+"id": 163,
+"obs": "Actualizacion de firmware con version V8.432 TEST"
+},
+{
+"id": 164,
+"obs": "Actualizacion Llave a version 8."
+},
+{
+"id": 169,
+"obs": "Instalacion de DSP Machinery Control"
+},
+{
+"id": 173,
+"obs": "Cliente no podia conectarse a las bases de datos del expert."
+},
+{
+"id": 171,
+"obs": "Instalacion de software DSPMC."
+},
+{
+"id": 172,
+"obs": "Soporte para ayudar a realizar backup de unas bases de datos. OK. Intentar solucionar el problema de que la utilidad de backup no se ejecuta. OK"
+},
+{
+"id": 170,
+"obs": "Habilitar modulo de balanceo."
+},
+{
+"id": 174,
+"obs": "Actualizacion de machinery Control a  ultima V8.1."
+},
+{
+"id": 175,
+"obs": "Actualizacion de machinery Control a  ultima V8.1."
+},
+{
+"id": 176,
+"obs": "Actualizacion de machinery Control a  ultima V8.1."
+},
+{
+"id": 177,
+"obs": "Actualizacion de machinery Control a  ultima V8.1."
+},
+{
+"id": 178,
+"obs": "Actualizacion de machinery Control a  ultima V8.1."
+},
+{
+"id": 179,
+"obs": "ASISTENCIA REMOTA. Habilitar licencia llave HASP 2134056216. OK. Habilitar modulos M1, M2, M3, M4. Consulta sobre manejo del software. OK. No puede incluir equipo en reporte."
+},
+{
+"id": 180,
+"obs": "ASISTENCIA REMOTA. Habilitar licencia llave HASP. OK. Habilitar modulos M1, M2, M3, M4. OK"
+},
+{
+"id": 181,
+"obs": "Bajar Firmware de equipo a ultima version 7."
+},
+{
+"id": 182,
+"obs": "Instalar FirmWare 8.156 en equipo"
+},
+{
+"id": 183,
+"obs": "Instalar software DSP MC 7.4."
+},
+{
+"id": 184,
+"obs": "Parche fecha DSP MC 7.4."
+},
+{
+"id": 185,
+"obs": "ASISTENCIA REMOTA. Instalar DSP MC version 7."
+},
+{
+"id": 187,
+"obs": "Firmware de equipo a V7.335"
+},
+{
+"id": 188,
+"obs": "Firmware de equipo a V7.335"
+},
+{
+"id": 186,
+"obs": "Instalar parche de bateria a pocket Vibpro"
+},
+{
+"id": 190,
+"obs": "Actualizar Firmware a version 8."
+},
+{
+"id": 192,
+"obs": "No se podia descargar los reportes."
+},
+{
+"id": 149,
+"obs": "Instalacion de software ultima version 8. FirmWare a version 8.370. Suspendido por tiempo"
+},
+{
+"id": 194,
+"obs": "Instalacion de software DSP MC."
+},
+{
+"id": 195,
+"obs": "Instalacion de software Data Management."
+},
+{
+"id": 196,
+"obs": "No podia conectarse al WRM."
+},
+{
+"id": 197,
+"obs": "Instalacion de software DSP MC."
+},
+{
+"id": 199,
+"obs": "Habilitar firmware Colector de datos."
+},
+{
+"id": 200,
+"obs": "Instalacion del software DSP MC."
+},
+{
+"id": 202,
+"obs": "Instalacion de software DSP MC."
+},
+{
+"id": 201,
+"obs": "Instalacion del software DSP MC. 2 PCs."
+},
+{
+"id": 203,
+"obs": "ASISTENCIA REMOTA. Actualizacion de FirmWare a 8.436."
+},
+{
+"id": 204,
+"obs": "ASISTENCIA REMOTA. Actualizacion de FirmWare a 8.436."
+},
+{
+"id": 205,
+"obs": "ASISTENCIA REMOTA. Actualizacion de FirmWare a 8.436."
+},
+{
+"id": 206,
+"obs": "ASISTENCIA REMOTA. Actualizacion de FirmWare a 8.436."
+},
+{
+"id": 209,
+"obs": "Soporte para instalacion de software Machinery Control."
+},
+{
+"id": 211,
+"obs": "Soporte para problema con base de datos en Expert."
+},
+{
+"id": 212,
+"obs": "Asistencia para instalacion de software Machinery Control."
+},
+{
+"id": 221,
+"obs": "Instalcion de DSP"
+},
+{
+"id": 208,
+"obs": "Instalacion de software. Actualizacion de todo"
+},
+{
+"id": 215,
+"obs": "Actualizacion de sotware DSP MC a V8. Actualizacion de llave HASP a V8."
+},
+{
+"id": 216,
+"obs": "Instalacion de software Data Management."
+},
+{
+"id": 217,
+"obs": "Soporte instalacion data management"
+},
+{
+"id": 210,
+"obs": "Soporte con utilidad de backup y software DSPMC."
+},
+{
+"id": 222,
+"obs": "Instalacion de software, instaladores incompletos."
+},
+{
+"id": 224,
+"obs": "Soporte para reparar la base de datos de reportes"
+},
+{
+"id": 225,
+"obs": "Instalacion de software DSPMC version 7."
+},
+{
+"id": 226,
+"obs": "ASISTENCIA REMOTA. Actualizacion de firmware 8.446."
+},
+{
+"id": 227,
+"obs": "ASISTENCIA REMOTA. Actualizacion de firmware 8.446."
+},
+{
+"id": 228,
+"obs": "ASISTENCIA REMOTA. Actualizacion de firmware 8.446."
+},
+{
+"id": 229,
+"obs": "Actualizacion de Machinery Control a version V8.1.686 "
+},
+{
+"id": 230,
+"obs": "Por formateo de pc, consultas con respecto a nuestro software."
+},
+{
+"id": 220,
+"obs": "Restaurar las bases de datos del disco roto."
+},
+{
+"id": 231,
+"obs": "ASISTENCIA REMOTA. Actualizacion de firmware 8.446."
+},
+{
+"id": 232,
+"obs": "Instalacion del software ultima version 7."
+},
+{
+"id": 223,
+"obs": "Instalacion de software, instaladores incompletos. No se finalizo la instalacion porque el cliente se tuvo que ir."
+},
+{
+"id": 213,
+"obs": "Problema con bases de datos en DSP MC, que no puede borrar puntos, equipos, etc."
+},
+{
+"id": 233,
+"obs": "Asesoramiento para backup de las bases de datos, por formateo de pc."
+},
+{
+"id": 234,
+"obs": "Actualizacion de SQL2012 a 2014. 4 PC's"
+},
+{
+"id": 218,
+"obs": "Actualizar varias cosas a 8 entre otras cosas llaves. Llave 116-296-1559. Llave 817-537-697"
+},
+{
+"id": 235,
+"obs": "Problema de conectividad e inestabilidad de un pocket vibpro."
+},
+{
+"id": 64,
+"obs": "Instalacion de Data Management."
+},
+{
+"id": 214,
+"obs": "Problema de equipo expert que no mide bien, al parecer problema con cables."
+},
+{
+"id": 219,
+"obs": "Hermanar WRM con pc."
+},
+{
+"id": 193,
+"obs": "Firmware de equipo a V8. Actualizacion a 8 DSP MC."
+},
+{
+"id": 165,
+"obs": "Cargar version 8 de firmware que este funcionando. "
+},
+{
+"id": 129,
+"obs": "Habilitar modulo medciones on line. Actualizar FirmWare de equipo a ultima version 8. Actualizar Machinery Control a ultima version 8. Actualizar llave a version 8."
+},
+{
+"id": 236,
+"obs": "Problemas en la instalacion de Machinery Control V7.4.549."
+},
+{
+"id": 237,
+"obs": "Error en equipo Pocket Vibpro."
+},
+{
+"id": 238,
+"obs": "Problema con base de datos en expert."
+},
+{
+"id": 239,
+"obs": "Instalacion de sistema opertativo en pc nueva."
+}
+]

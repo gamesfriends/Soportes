@@ -1,0 +1,173 @@
+[
+{
+"id": 1,
+"nsoporte": "223",
+"fecha": "31/05/2021",
+"hora": "09:30:00",
+"des": "Se reviso error al iniciar DSPMC, y se inicio reinstalacion de software.",
+"estado": "Finalizada",
+"tipotrabajo": "Externo"
+},
+{
+"id": 2,
+"nsoporte": "233",
+"fecha": "31/05/2021",
+"hora": "11:00:00",
+"des": "Mediante un mail, se envio un intructivo basico, para realizar backup de las bases de datos.",
+"estado": "Finalizada",
+"tipotrabajo": "Externo"
+},
+{
+"id": 3,
+"nsoporte": "234",
+"fecha": "31/05/2021",
+"hora": "11:30:00",
+"des": "Se procedio a realizar el copiado de los archivos a una de las computadoras.",
+"estado": "Finalizada",
+"tipotrabajo": "Interno"
+},
+{
+"id": 4,
+"nsoporte": "235",
+"fecha": "31/05/2021",
+"hora": "14:00:00",
+"des": "Comunicación con el cliente, consulta y analisis del problema. Se cree en la posibilidad de un problema de hardware.",
+"estado": "Finalizada",
+"tipotrabajo": "Externo"
+},
+{
+"id": 6,
+"nsoporte": "223",
+"fecha": "01/06/2021",
+"hora": "08:10:00",
+"des": "Conectarse con el cliente de pavan para verificar que la instalacion se haya realizado con éxito.",
+"estado": "Finalizada-Error",
+"tipotrabajo": "Externo"
+},
+{
+"id": 5,
+"nsoporte": "234",
+"fecha": "01/06/2021",
+"hora": "13:30:00",
+"des": "Actualizar SQL2012 a 2014. PC-1",
+"estado": "Finalizada",
+"tipotrabajo": "Interno"
+},
+{
+"id": 2,
+"nsoporte": "223",
+"fecha": "02/06/2021",
+"hora": "08:10:00",
+"des": "Conectarse con el cliente de pavan para verificar que la instalacion se haya realizado con éxito.",
+"estado": "Finalizada-Error",
+"tipotrabajo": "Externo"
+},
+{
+"id": 12,
+"nsoporte": "236",
+"fecha": "02/06/2021",
+"hora": "10:30:00",
+"des": "Instalacion de software DSP MC 7.4.549",
+"estado": "Finalizada",
+"tipotrabajo": "Externo"
+},
+{
+"id": 13,
+"nsoporte": "237",
+"fecha": "02/06/2021",
+"hora": "13:30:00",
+"des": "Toma de datos con respecto al error.",
+"estado": "Finalizada-Error",
+"tipotrabajo": "Externo"
+},
+{
+"id": 14,
+"nsoporte": "234",
+"fecha": "02/06/2021",
+"hora": "15:30:00",
+"des": "Se copiaron los archivos a las pcs.",
+"estado": "Finalizada",
+"tipotrabajo": "Interno"
+},
+{
+"id": 15,
+"nsoporte": "234",
+"fecha": "03/06/2021",
+"hora": "08:30:00",
+"des": "Actualizar SQL2012 a 2014. PC-2",
+"estado": "Finalizada",
+"tipotrabajo": "Interno"
+},
+{
+"id": 16,
+"nsoporte": "238",
+"fecha": "03/06/2021",
+"hora": "09:30:00",
+"des": "Asesoramiento con la base de datos corrupta en expert",
+"estado": "Finalizada",
+"tipotrabajo": "Externo"
+},
+{
+"id": 17,
+"nsoporte": "234",
+"fecha": "03/06/2021",
+"hora": "13:00:00",
+"des": "Actualizar SQL2012 a 2014. PC-3",
+"estado": "Finalizada",
+"tipotrabajo": "Interno"
+},
+{
+"id": 18,
+"nsoporte": "239",
+"fecha": "04/06/2021",
+"hora": "08:00:00",
+"des": "Instalacion de programas y sistema operativo.",
+"estado": "Finalizada",
+"tipotrabajo": "Interno"
+},
+{
+"id": 7,
+"nsoporte": "218",
+"fecha": "04/06/2021",
+"hora": "10:30:00",
+"des": "Conectarse con cliente para realizar el soporte de actualizacion de llaves, etc.",
+"estado": "Pendiente",
+"tipotrabajo": "Externo"
+},
+{
+"id": 8,
+"nsoporte": "219",
+"fecha": "04/06/2021",
+"hora": "13:30:00",
+"des": "Hermanar wrm con Sean Kim.",
+"estado": "Pendiente",
+"tipotrabajo": "Externo"
+},
+{
+"id": 9,
+"nsoporte": "193",
+"fecha": "04/06/2021",
+"hora": "15:30:00",
+"des": "Conectarse con cliente para realizar el soporte.",
+"estado": "Pendiente",
+"tipotrabajo": "Externo"
+},
+{
+"id": 11,
+"nsoporte": "129",
+"fecha": "05/06/2021",
+"hora": "13:30:00",
+"des": "Conectarse con cliente para realizar el soporte.",
+"estado": "Pendiente",
+"tipotrabajo": "Externo"
+},
+{
+"id": 10,
+"nsoporte": "165",
+"fecha": "05/06/2021",
+"hora": "15:30:00",
+"des": "Conectarse con cliente para realizar el soporte.",
+"estado": "Pendiente",
+"tipotrabajo": "Externo"
+}
+]

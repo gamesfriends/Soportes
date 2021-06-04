@@ -1,0 +1,39 @@
+.tableContainer {
+  background-color: #333333;
+  color: #000000;
+  width: 100%;
+  padding: 2em 0;
+  display: flex;
+  align-items: center;
+}
+
+.tableData {
+  background-color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  border-collapse: collapse;
+  cursor: pointer;
+}
+
+.tableThsH {
+  height: 2.8em;
+}
+
+.tableData-row .tabledata-cell {
+  height: 2em;
+}
+
+.borderRow {
+  border-bottom: 1px solid #bbb9b9;
+}
+
+.center {
+  text-align: center;
+}
+
+.tableData-row:hover {
+  background-color: #d4d3d3;
+}
+
+/*# sourceMappingURL=table-material.css.map */
